@@ -41,6 +41,12 @@ Standards and models the demonstrations build on:
 - **IETF drafts** — [L1 Connectivity Service Model (L1CSM)](https://datatracker.ietf.org/doc/draft-ietf-ccamp-l1csm-yang/) · [TE and Service Mapping](https://datatracker.ietf.org/doc/draft-ietf-teas-te-service-mapping-yang/) · [Network Anomaly Semantics](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-semantics/) · [Network Incident YANG](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-incident-yang/) · [Network Anomaly Architecture](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-architecture/)
 - **TM Forum** — [TMF921, Intent Management API](https://www.tmforum.org/oda/open-apis/directory/intent-management-api-TMF921/v5.0.0) · [Intent-based Automation (TR290, IG1253)](https://www.tmforum.org/opendigitalframework/intent-based-automation/)
 
+Related and parallel work in the community, on knowledge graphs and AI-assisted modelling for network operations:
+
+- **Network ontology knowledge graphs** (Brad Peters) — [Network-Ontology-Knowledge-Graphs](https://github.com/bradspau/Network-Ontology-Knowledge-Graphs)
+- **NAIM** (Chong Feng) — [A Canonical Data Format for AI-Assisted YANG Modeling](https://datatracker.ietf.org/doc/draft-feng-netmod-naim/) · [NAIM operations](https://datatracker.ietf.org/doc/draft-feng-netconf-naim-op/) · [NAIM with the Model Context Protocol](https://datatracker.ietf.org/doc/draft-feng-nmop-naim-mcp/)
+- **Knowledge graphs for network operations** — [Knowledge Graph Framework for Network Operations](https://datatracker.ietf.org/doc/draft-mackey-nmop-kg-for-netops/)
+
 Foundational:
 
 - C. W. Morris, *Foundations of the Theory of Signs* (University of Chicago Press, 1938) — the syntax / semantics / pragmatics distinction.
